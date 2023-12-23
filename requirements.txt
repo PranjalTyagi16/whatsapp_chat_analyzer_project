@@ -4,8 +4,9 @@ streamlit
 scikit_learn
 matplotlib
 seaborn
-WordCloud
-Counter
-URLExtract
+wordcloud
+collections
+urlextract
 re
-SentimentIntensityAnalyzer
+vaderSentiment
+emoji 
